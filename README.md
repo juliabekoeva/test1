@@ -1,3 +1,3 @@
 # test1
 repo for education
-Autor Julia Bekoeva
+Author Julia Bekoeva
